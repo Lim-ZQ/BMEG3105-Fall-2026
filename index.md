@@ -145,34 +145,34 @@ But we will check the things in detail if the number of survey forms we received
 
 | Lecture | Date         | Location | Topic                                           | Slides | Notes | Reading | Important dates (All due at <span style="color:red;">11:59 pm</span>) |
 | ------- | ------------ | -------- | ----------------------------------------------- | ------ | ----- | ------- | ------------------------------------------------------------ |
-| 1       | Sep 9 (Wed)  | SC L4    |                                                 |        |       |         |                                                              |
-| 2       | Sep 11 (Fri) | MMW703   |                                                 |        |       |         | PA0 posted                                                   |
-| 3       | Sep 16 (Wed) | SC L4    |                                                 |        |       |         | <span style="color:red;">Scribing preference registration due</span> |
-| 4       | Sep 18 (Fri) | MMW703   |                                                 |        |       |         | A1 posted                                                    |
-| 5       | Sep 23 (Wed) | SC L4    |                                                 |        |       |         | <span style="color:red;">PA0 due</span>                      |
-| 6       | Sep 25 (Fri) | MMW703   |                                                 |        |       |         |                                                              |
-| 7       | Sep 30 (Wed) | SC L4    |                                                 |        |       |         | <span style="color:red;">A1 due</span>                       |
-| 8       | Oct 2 (Fri)  | MMW703   |                                                 |        |       |         |                                                              |
-| 9       | Oct 7 (Wed)  | SC L4    |                                                 |        |       |         |                                                              |
-| 10      | Oct 9 (Fri)  | MMW703   |                                                 |        |       |         | A2 posted                                                    |
-| 11      | Oct 14 (Wed) | SC L4    |                                                 |        |       |         |                                                              |
-| 12      | Oct 16 (Fri) | MMW703   |                                                 |        |       |         |                                                              |
-| 13      | Oct 21 (Wed) | SC L4    |                                                 |        |       |         | <span style="color:red;">Quiz</span>, <span style="color:red;">A2 due</span> |
-| 14      | Oct 23 (Fri) | MMW703   |                                                 |        |       |         | <span style="color:red;">8:30am-11:15am, Midterm exam</span> |
+| 1       | Sep 9 (Wed)  | SC L4    | Introduction                                                |        |       |         |                                                              |
+| 2       | Sep 11 (Fri) | MMW703   |  Data & Python                                               |        |       |         | PA0 posted                                                   |
+| 3       | Sep 16 (Wed) | SC L4    |    Sequence and DP                                             |        |       |         | <span style="color:red;">Scribing preference registration due</span> |
+| 4       | Sep 18 (Fri) | MMW703   |      Assembly & Mapping                                           |        |       |         | A1 posted                                                    |
+| 5       | Sep 23 (Wed) | SC L4    |     Data exploration                                            |        |       |         | <span style="color:red;">PA0 due</span>                      |
+| 6       | Sep 25 (Fri) | MMW703   |        Distance and clustering                                         |        |       |         |                                                              |
+| 7       | Sep 30 (Wed) | SC L4    |         Classification                                        |        |       |         | <span style="color:red;">A1 due</span>                       |
+| 8       | Oct 2 (Fri)  | MMW703   |         Classification                                        |        |       |         |                                                              |
+| 9       | Oct 7 (Wed)  | SC L4    |       Perf evaluation                                          |        |       |         |                                                              |
+| 10      | Oct 9 (Fri)  | MMW703   |       Feat selection                                          |        |       |         | A2 posted                                                    |
+| 11      | Oct 14 (Wed) | SC L4    |       Dim reduction                                          |        |       |         |                                                              |
+| 12      | Oct 16 (Fri) | MMW703   |       Overfitting                                          |        |       |         |                                                              |
+| 13      | Oct 21 (Wed) | SC L4    |        Mid-term review                                         |        |       |         | <span style="color:red;">Quiz</span>, <span style="color:red;">A2 due</span> |
+| 14      | Oct 23 (Fri) | MMW703   |        Mid-term                                         |        |       |         | <span style="color:red;">8:30am-11:15am, Midterm exam</span> |
 |         |              |          | <span style="color:blue;">Module 2 start</span> |        |       |         |                                                              |
-| 15      | Oct 28 (Wed) | SC L4    |                                                 |        |       |         |                                                              |
-| 16      | Oct 30 (Fri) | MMW703   |                                                 |        |       |         | PA1 posted                                                   |
-| 17      | Nov 4 (Wed)  | SC L4    |                                                 |        |       |         |                                                              |
-| 18      | Nov 6 (Fri)  | MMW703   |                                                 |        |       |         |                                                              |
-| 19      | Nov 11 (Wed) | SC L4    |                                                 |        |       |         |                                                              |
-| 20      | Nov 13 (Fri) | MMW703   |                                                 |        |       |         | <span style="color:red;">Project M-report (Proposal) due</span> |
+| 15      | Oct 28 (Wed) | SC L4    |         Multi-omics overview                                        |        |       |         |                                                              |
+| 16      | Oct 30 (Fri) | MMW703   |          Cancer genomics overview                                       |        |       |         | PA1 posted                                                   |
+| 17      | Nov 4 (Wed)  | SC L4    |          Genomics data analysis                                       |        |       |         |                                                              |
+| 18      | Nov 6 (Fri)  | MMW703   |          Single cell genomics                                       |        |       |         |                                                              |
+| 19      | Nov 11 (Wed) | SC L4    |           Data visualization                                      |        |       |         |                                                              |
+| 20      | Nov 13 (Fri) | MMW703   |          Protein-RNA                                       |        |       |         | <span style="color:red;">Project M-report (Proposal) due</span> |
 |         |              |          | <span style="color:blue">Module 3 start</span>  |        |       |         |                                                              |
-| 21      | Nov 18 (Wed) | SC L4    |                                                 |        |       |         | A3 posted                                                    |
-| 22      | Nov 20 (Fri) | MMW703   |                                                 |        |       |         | <span style="color:red;">PA1 due</span>                      |
-| 23      | Nov 25 (Wed) | SC L4    |                                                 |        |       |         |                                                              |
-| 24      | Nov 27 (Fri) | MMW703   |                                                 |        |       |         | <span style="color:red;">A3 due</span>                       |
-| 25      | Dec 2 (Wed)  | SC L4    |                                                 |        |       |         | <span style="color:red;">Quiz</span>                         |
-| 26      | Dec 4 (Fri)  | MMW703   |                                                 |        |       |         | <span style="color:red;">Project report due on 8 Dec</span>  |
+| 21      | Nov 18 (Wed) | SC L4    |         Deep learning/CNN                                        |        |       |         | A3 posted                                                    |
+| 22      | Nov 20 (Fri) | MMW703   |           EHRs & Text                                      |        |       |         | <span style="color:red;">PA1 due</span>                      |
+| 23      | Nov 25 (Wed) | SC L4    |            Drug & Presentation                                     |        |       |         |                                                              |
+| 24      | Nov 27 (Fri) | MMW703   |           Project pres                                      |        |       |         | <span style="color:red;">A3 due</span>                       |
+| 25      | Dec 2 (Wed)  | SC L4    |           Course review                                      |        |       |         | <span style="color:red;">Quiz</span>                         |
+| 26      | Dec 4 (Fri)  | MMW703   |          Project pres                                       |        |       |         | <span style="color:red;">Project report due on 8 Dec</span>  |
 
 
 
