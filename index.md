@@ -145,7 +145,7 @@ But we will check the things in detail if the number of survey forms we received
 
 | Lecture | Date         | Location | Topic                                           | Slides | Notes | Reading | Important dates (All due at <span style="color:red;">11:59 pm</span>) |
 | ------- | ------------ | -------- | ----------------------------------------------- | ------ | ----- | ------- | ------------------------------------------------------------ |
-| 1       | Sep 9 (Wed)  | SC L4    | Introduction                                                |        |       |         |                                                              |
+| 1       | Sep 9 (Wed)  | SC L4    |Introduction   |  <a href="https://www.dropbox.com/scl/fi/lrpa19dse3h7d4rd0ewlw/lec1-Intro.pdf?rlkey=8m4qdi46f50kkr5jmv8cvyrns&dl=0">Lec-1</a>      |       |  <a href="https://www.dropbox.com/scl/fi/d8eiewoijg0rg0489wg27/BMEG3105_Course-Outline_1st-Term_2026-27.docx?rlkey=xewz668h6c5848yx7x90eg0v1&dl=0">Course outline</a>       |                                                              |
 | 2       | Sep 11 (Fri) | MMW703   |  Data & Python                                               |        |       |         | PA0 posted                                                   |
 | 3       | Sep 16 (Wed) | SC L4    |    Sequence and DP                                             |        |       |         | <span style="color:red;">Scribing preference registration due</span> |
 | 4       | Sep 18 (Fri) | MMW703   |      Assembly & Mapping                                           |        |       |         | A1 posted                                                    |
