@@ -100,7 +100,7 @@ We do encourage you try.
 
 #### Scribing
 
-Please sign up the <a href="https://docs.google.com/spreadsheets/d/18Rx5EfxcMS9lgl1dKtQfpKciQfF0B4OM23vLPom3leE/edit?usp=sharing">scribing preference</a>. 
+Please sign up the <a href="https://docs.google.com/spreadsheets/d/1znk8EKOJh-DaTQzsQ8dkzHsGW4B0uAskz0Rn6hEXhw0/edit?usp=sharing">scribing preference</a>. 
 We should have at least one student for each lecture. We may adjust the assignment if necessary. 
 Notice that your note and scribing will be posted online, for others reference. 
 You can choose to remove your name or not. Deadline for signing the scribing: **<span style="color:red;">11:59 pm on 16th Sep</span>**. 
