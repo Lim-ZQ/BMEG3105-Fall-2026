@@ -160,8 +160,8 @@ But we will check the things in detail if the number of survey forms we received
 | 13      | Oct 21 (Wed) | SC L4    |        Mid-term review                                         |        |       |         | <span style="color:red;">Quiz</span>, <span style="color:red;">A2 due</span> |
 | 14      | Oct 23 (Fri) | MMW703   |        Mid-term                                         |        |       |         | <span style="color:red;">8:30am-11:15am, Midterm exam</span> |
 |         |              |          | <span style="color:blue;">Module 2 start</span> |        |       |         |                                                              |
-| 15      | Oct 28 (Wed) | SC L4    |         Multi-omics overview                                        |        |       |         |                                                              |
-| 16      | Oct 30 (Fri) | MMW703   |          Cancer genomics overview                                       |        |       |         | PA1 posted                                                   |
+| 15      | Oct 28 (Wed) | SC L4    |         Multi-omics overview                                        |        |       |         |       PA1 posted                                                       |
+| 16      | Oct 30 (Fri) | MMW703   |          Cancer genomics overview                                       |        |       |         |                                                    |
 | 17      | Nov 4 (Wed)  | SC L4    |          Genomics data analysis                                       |        |       |         |                                                              |
 | 18      | Nov 6 (Fri)  | MMW703   |          Single cell genomics                                       |        |       |         |                                                              |
 | 19      | Nov 11 (Wed) | SC L4    |           Data visualization                                      |        |       |         |        <span style="color:red;">Project M-report due</span> (Proposal)                                                      |
