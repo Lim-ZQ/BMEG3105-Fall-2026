@@ -172,7 +172,7 @@ But we will check the things in detail if the number of survey forms we received
 | 23      | Nov 25 (Wed) | SC L4    |            Drug & Presentation                                     |        |       |         |         <span style="color:red;">A3 due</span>                                                     |
 | 24      | Nov 27 (Fri) | MMW703   |           Course review                                      |        |       |         | <span style="color:red;">Quiz</span>                       |
 | 25      | Dec 2 (Wed)  | SC L4    |           Project pres                                     |        |       |         | <span style="color:red;">Project report due on 8 Dec</span>                         |
-| 26      | Dec 4 (Fri)  | MMW703   |           Final                                       |        |       |         | <span style="color:red;">8:30am-11:15am, Final exam</span>  |
+| 26      | Dec 4 (Fri)  | MMW703   |           Final                                       |        |       |         | <span style="color:red;">8:30am-11:30am, Final exam</span>  |
 
 
 
