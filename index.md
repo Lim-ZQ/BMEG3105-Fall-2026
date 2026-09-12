@@ -164,8 +164,8 @@ But we will check the things in detail if the number of survey forms we received
 | 16      | Oct 30 (Fri) | MMW703   |          Cancer genomics overview                                       |        |       |         | PA1 posted                                                   |
 | 17      | Nov 4 (Wed)  | SC L4    |          Genomics data analysis                                       |        |       |         |                                                              |
 | 18      | Nov 6 (Fri)  | MMW703   |          Single cell genomics                                       |        |       |         |                                                              |
-| 19      | Nov 11 (Wed) | SC L4    |           Data visualization                                      |        |       |         |        <span style="color:red;">Project M-report (Proposal)                                                      |
-| 20      | Nov 13 (Fri) | MMW703   |          Protein-RNA                                       |        |       |         |  A3 posted due</span> |
+| 19      | Nov 11 (Wed) | SC L4    |           Data visualization                                      |        |       |         |        <span style="color:red;">Project M-report due</span> (Proposal)                                                      |
+| 20      | Nov 13 (Fri) | MMW703   |          Protein-RNA                                       |        |       |         |  A3 posted  |
 |         |              |          | <span style="color:blue">Module 3 start</span>  |        |       |         |                                                              |
 | 21      | Nov 18 (Wed) | SC L4    |         Deep learning/CNN                                        |        |       |         | <span style="color:red;">PA1 due</span>                                                     |
 | 22      | Nov 20 (Fri) | MMW703   |           EHRs & Text                                      |        |       |         |                      |
