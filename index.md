@@ -39,8 +39,8 @@ TA:
 
 #### Time and location
 
-Wednesday: <b>9:30am-10:15am</b>, SC L4 <br>
-Friday: <b>9:30am-11:15am</b>, MMW 703 <br>
+Wednesday: <b>9:30am-11:15am</b>, SC L4 <br>
+Friday: <b>9:30am-10:15am</b>, MMW 703 <br>
 Friday: <b>10:30am-11:15am</b>, MMW 703 (Tutorial) <br>
 
 #### Format
