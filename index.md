@@ -167,8 +167,8 @@ But we will check the things in detail if the number of survey forms we received
 | 18      | Nov 11 (Wed) | SC L4    |           Data visualization                                      |        |       |         |        <span style="color:red;">Project M-report due</span> (Proposal)                                                      |
 | 19      | Nov 13 (Fri) | MMW703   |          Protein-RNA                                       |        |       |         |  A3 posted  |
 |         |              |          | <span style="color:blue">Module 3 start</span>  |        |       |         |                                                              |
-| 20      | Nov 18 (Wed) | SC L4    |         Deep learning/CNN                                        |        |       |         | <span style="color:red;">PA1 due</span>                                                     |
-| 21      | Nov 20 (Fri) | MMW703   |           EHRs & Text                                      |        |       |         |                      |
+| 20      | Nov 18 (Wed) | SC L4    |         Deep learning/CNN                                        |        |       |         |                                                      |
+| 21      | Nov 20 (Fri) | MMW703   |           EHRs & Text                                      |        |       |         |        <span style="color:red;">PA1 due</span>              |
 | 22      | Nov 25 (Wed) | SC L4    |            Drug & Presentation                                     |        |       |         |         <span style="color:red;">A3 due</span>                                                     |
 | 23      | Nov 27 (Fri) | MMW703   |           Course review                                      |        |       |         | <span style="color:red;">Quiz</span>                       |
 | 24      | Dec 2 (Wed)  | SC L4    |           Project pres                                     |        |       |         |                          |
