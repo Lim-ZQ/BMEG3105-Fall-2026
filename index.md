@@ -173,7 +173,7 @@ But we will check the things in detail if the number of survey forms we received
 | 23      | Nov 27 (Fri) | MMW703   |           Course review                                      |        |       |         | <span style="color:red;">Quiz</span>                       |
 | 24      | Dec 2 (Wed)  | SC L4    |           Project pres                                     |        |       |         |                          |
 | 25      | Dec 4 (Fri)  | MMW703   |           Project pres                                       |        |       |         | <span style="color:red;">Project report due on 8 Dec</span>  |
-| 26      | Dec 7 (Mon)  | TBA   |           Final                                       |        |       |         | <span style="color:red;">8:30am-11:30am, Final exam</span>  |
+| 26      | Dec 7 (Mon)  | <span style="color:red;">ERB803</span>   |           Final                                       |        |       |         | <span style="color:red;">8:30am-11:30am, Final exam</span>  |
 
 
 
